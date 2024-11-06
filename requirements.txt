@@ -1,0 +1,16 @@
+Django>=3.2,<5.0
+mysqlclient
+django-anymail
+djangorestframework>=3.12
+django-tinymce
+pytz
+django-timezone-field
+django-notifications-hq
+pytest-django
+factory-boy
+coverage
+django-axes
+django-cors-headers
+django-redis
+flake8
+black
